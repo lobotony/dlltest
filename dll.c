@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void util() __attribute__((weak)); 
+void util(); 
 
 void dllmain(void)
 {
